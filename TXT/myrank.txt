@@ -1,4 +1,4 @@
-ZCZC W02 pershyfon
-ZCZC W02 azmyar
-ZCZC W02 novrizair
-ZCZC W02 yhogaa
+ZCZC W04 pershyfon
+ZCZC W04 azmyar
+ZCZC W04 novrizair
+ZCZC W04 yhogaa
