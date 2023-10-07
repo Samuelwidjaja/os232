@@ -3,9 +3,9 @@ permalink: LINKS/
 ---
 # LINKS
 **Week05**
-https://youtu.be/PujjqfUhtNo?si=Ru-xjYLxVAXeAryn It's Neso Academy's video so yeah go check this out!
+* https://youtu.be/PujjqfUhtNo?si=Ru-xjYLxVAXeAryn It's Neso Academy's video so yeah go check this out!
 
-https://www.techtarget.com/searchstorage/definition/virtual-memory Do you know that virtual memory is a memory management technique where secondary memory can be used as if it were a part of the main memory? This website also gives you more detailed information about this topic.
+* https://www.techtarget.com/searchstorage/definition/virtual-memory Do you know that virtual memory is a memory management technique where secondary memory can be used as if it were a part of the main memory? This website also gives you more detailed information about this topic.
 
 **Week04**
 [Dynamic Memory Allocation in C ---T](https://www.geeksforgeeks.org/dynamic-memory-allocation-in-c-using-malloc-calloc-free-and-realloc/) This website explains about dynamic memory allocation in C. This will surely help you understand more about the topic!
