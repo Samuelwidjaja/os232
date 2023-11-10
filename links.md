@@ -2,6 +2,13 @@
 permalink: LINKS/
 ---
 # LINKS
+### Week 6
+* [Threads and Concurrency](https://applied-programming.github.io/Operating-Systems-Notes/3-Threads-and-Concurrency/) ---
+This page contains documentation about concurrency's concept theory with some straightforward explanations.
+
+* [Process in Operating System](https://www.studytonight.com/operating-system/operating-system-processes) Operating system runs some processes in a program. This web page provides explanation about how exactly operating system executes process, its section, state, control block, and some terms in process.
+
+
 **Week05**
 * https://youtu.be/PujjqfUhtNo?si=Ru-xjYLxVAXeAryn It's Neso Academy's video so yeah go check this out!
 
