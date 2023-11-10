@@ -2,6 +2,11 @@
 permalink: LINKS/
 ---
 # LINKS
+## Week 07
+* [Deadlock in Operation System](https://www.youtube.com/watch?v=UVo9mGARkhQ) This video explains the conditions of Deadlock. Simple snippets elucidate what's deadlock, how deadlock, real world OS scenarios of deadlock, and the 4 conditions a deadlock occurs in OS.
+
+* [Synchronization in Operation System](https://www.youtube.com/watch?v=eKKc0d7kzww) A 5 minutes video of synchronization process. The main point of this video is to learn about the critical region in process synchronization with real time example.
+
 ### Week 6
 * [Threads and Concurrency](https://applied-programming.github.io/Operating-Systems-Notes/3-Threads-and-Concurrency/) ---
 This page contains documentation about concurrency's concept theory with some straightforward explanations.
