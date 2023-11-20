@@ -2,6 +2,17 @@
 permalink: LINKS/
 ---
 # LINKS
+
+**Week 08**
+
+* [Multiple Processor Scheduling](https://binaryterms.com/multiple-processor-scheduling.html) ---
+  This website explains about this week's topic.
+  I really recommend you to read this to improve your understandment!
+
+* [Welcome to Linux from Scratch!](https://www.linuxfromscratch.org/) ---
+  One of the best website about OS course i have ever found so far!
+  It will help you to do this week's assignment.
+  
 **Week 07**
 * [Deadlock in Operation System](https://www.youtube.com/watch?v=UVo9mGARkhQ) This video explains the conditions of Deadlock. Simple snippets elucidate what's deadlock, how deadlock, real world OS scenarios of deadlock, and the 4 conditions a deadlock occurs in OS.
 
