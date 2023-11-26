@@ -1,3 +1,0 @@
---2023-11-24 18:06:03--  https://keys.gnupg.net/pks/lookup?op=get
-Resolving keys.gnupg.net (keys.gnupg.net)... failed: No address associated with hostname.
-wget: unable to resolve host address ‘keys.gnupg.net’
